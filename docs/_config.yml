@@ -1,5 +1,5 @@
-title: 書籍XXXサポートページ
-description: 書籍XXXについての説明
 theme: jekyll-theme-minimal
-github : [metadata]
-github-username: kitamura655
+title: 手を動かしながらやさしく学べるはじめてのAIデータサイエンスリテラシー
+logo: img/book.jpg
+description: 『手を動かしながらやさしく学べるはじめてのAIデータサイエンスリテラシー』のサポートページです。
+show_downloads: false
